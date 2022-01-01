@@ -1,0 +1,76 @@
+/* pages/inform/inform.wxss */
+.body{
+    width:100%;
+    height:600px;
+    /* border:1px solid skyblue; */
+}
+.part1{
+    width:100%;
+    height:55%;
+    margin-top:10px;
+    /* border:1px solid red; */
+}
+.part2{
+    width:100%;
+    height:40%;
+    margin-top:10px;
+    /* border:1px solid green; */
+}
+.img{
+    width:150px;
+    height:150px;
+    border-radius: 10%;
+}
+.part11{
+    width:48%;
+    height:150px;
+    /* border:1px solid mediumaquamarine; */
+    float:left;
+}
+.part12{
+    width:50%;
+    height:150px;
+    /* border:1px solid sienna; */
+    float:right;
+}
+.part13{
+    width:100%;
+    height:50px;
+    float:left;
+    /* border:1px solid greenyellow; */
+    margin-top:5px;
+}
+.part14{
+    width: 100%;
+    height:100px;
+    /* border:1px solid silver; */
+    float:left;
+}
+.part22{
+    width:100%;
+    height:50px;
+    float:left;
+    /* border:1px solid mediumorchid; */
+    margin-top:10px;
+}
+.skill{
+    width:22%;
+    height:90px;
+    float:left;
+    margin-bottom:5px;
+    margin-left:5px;
+    /* border:1px solid navy; */
+}
+.skill image{
+    width:70px;
+    height:70px;
+    float:left;
+    margin-left:0px;
+    border-radius: 50%;
+}
+.name{
+    text-align: center;
+}
+.type_show{
+    margin-bottom:5px;
+}
